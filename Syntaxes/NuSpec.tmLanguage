@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>spec.nu</string>
+	</array>
+	<key>foldingStartMarker</key>
+	<string>\(</string>
+	<key>foldingStopMarker</key>
+	<string>\)</string>
+	<key>keyEquivalent</key>
+	<string>^~N</string>
+	<key>name</key>
+	<string>NuSpec</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>match</key>
+			<string>\b(given|spec|should_behave_like)\b</string>
+			<key>name</key>
+			<string>keyword.operator.nu.nuspec</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(before_each|after_each|before_all|after_all)\b</string>
+			<key>name</key>
+			<string>keyword.specfification.support.nu.nuspec</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(should_be_equal|should_not_be_equal|should_be_greater_than|should_be_less_than|should_throw|should_be_true|should_be_false|should_be_kind_of)\b</string>
+			<key>name</key>
+			<string>support.function.behaviour.nu.nuspec</string>
+		</dict>
+		<dict>
+			<key>include</key>
+			<string>source.nu</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.nu.nuspec</string>
+	<key>uuid</key>
+	<string>83E8D040-6835-45F1-9C9B-BF554BA57B46</string>
+</dict>
+</plist>

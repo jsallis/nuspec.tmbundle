@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>9DEE094C-3079-4E3A-AE06-5D352BEF675C</string>
+			<string>------------------------------------</string>
+			<string>CC36AE97-03BE-4AD1-84CA-6FB5E533C7FF</string>
+			<string>B16C7345-A9F4-4B09-BD20-1BBBB94383D7</string>
+			<string>CB911920-26E3-44BF-A6A8-9DB6CFECF834</string>
+			<string>4751A712-6501-4201-A0C7-90E6D1D1CB59</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>4751A712-6501-4201-A0C7-90E6D1D1CB59</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>64A265FE-7CB4-40B8-9E58-C805121D6352</string>
+					<string>CD039E9C-BA19-49D0-B5A6-87EFDF949DC2</string>
+					<string>C9C23761-EF2D-4F37-87FD-EA3C6BC512FE</string>
+					<string>698B1C44-04A9-467D-BE86-2A5462EB70D1</string>
+					<string>9F6485A4-C614-46B0-B0E0-90F2888DF98C</string>
+					<string>7EBE5CAB-E1C9-4CAA-8C29-EEA632B074DE</string>
+					<string>D89B7B0A-4B60-4CBE-BB37-1A3F2A1F939D</string>
+					<string>E7CA8DCC-86A4-42BB-B66B-310AA8580E02</string>
+					<string>0EED3134-33D1-43D6-9417-493E5FA7D3C5</string>
+				</array>
+				<key>name</key>
+				<string>Expectations</string>
+			</dict>
+			<key>CB911920-26E3-44BF-A6A8-9DB6CFECF834</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>3010C8AF-71E5-4D05-BCA0-1A4325688747</string>
+					<string>B138A0D1-4303-4FF0-9532-E5197B7F2843</string>
+					<string>2F32C22E-515E-4E6A-91A0-62BA335376F2</string>
+					<string>C33F6EC6-8FFF-47BC-A160-16F1BDC203E8</string>
+				</array>
+				<key>name</key>
+				<string>Pre/Post Specification</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>NuSpec</string>
+	<key>ordering</key>
+	<array>
+		<string>83E8D040-6835-45F1-9C9B-BF554BA57B46</string>
+		<string>9DEE094C-3079-4E3A-AE06-5D352BEF675C</string>
+		<string>CC36AE97-03BE-4AD1-84CA-6FB5E533C7FF</string>
+		<string>B16C7345-A9F4-4B09-BD20-1BBBB94383D7</string>
+		<string>3010C8AF-71E5-4D05-BCA0-1A4325688747</string>
+		<string>B138A0D1-4303-4FF0-9532-E5197B7F2843</string>
+		<string>2F32C22E-515E-4E6A-91A0-62BA335376F2</string>
+		<string>C33F6EC6-8FFF-47BC-A160-16F1BDC203E8</string>
+		<string>64A265FE-7CB4-40B8-9E58-C805121D6352</string>
+		<string>CD039E9C-BA19-49D0-B5A6-87EFDF949DC2</string>
+		<string>C9C23761-EF2D-4F37-87FD-EA3C6BC512FE</string>
+		<string>698B1C44-04A9-467D-BE86-2A5462EB70D1</string>
+		<string>9F6485A4-C614-46B0-B0E0-90F2888DF98C</string>
+		<string>7EBE5CAB-E1C9-4CAA-8C29-EEA632B074DE</string>
+		<string>D89B7B0A-4B60-4CBE-BB37-1A3F2A1F939D</string>
+		<string>E7CA8DCC-86A4-42BB-B66B-310AA8580E02</string>
+		<string>0EED3134-33D1-43D6-9417-493E5FA7D3C5</string>
+	</array>
+	<key>uuid</key>
+	<string>0CE8DEF8-0068-47E3-87F1-3EA8CEDA017A</string>
+</dict>
+</plist>

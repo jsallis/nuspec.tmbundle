@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>(should_be_equal ${1:expected} ${2:actual})$0</string>
+	<key>name</key>
+	<string>should_be_equal</string>
+	<key>scope</key>
+	<string>source.nu.nuspec</string>
+	<key>tabTrigger</key>
+	<string>sbe</string>
+	<key>uuid</key>
+	<string>64A265FE-7CB4-40B8-9E58-C805121D6352</string>
+</dict>
+</plist>

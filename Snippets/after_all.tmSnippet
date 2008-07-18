@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>(after_all
+          $0)</string>
+	<key>name</key>
+	<string>after_all</string>
+	<key>scope</key>
+	<string>source.nu.nuspec</string>
+	<key>tabTrigger</key>
+	<string>afta</string>
+	<key>uuid</key>
+	<string>C33F6EC6-8FFF-47BC-A160-16F1BDC203E8</string>
+</dict>
+</plist>

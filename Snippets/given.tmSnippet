@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>(given "$1"
+       $0)</string>
+	<key>name</key>
+	<string>given</string>
+	<key>scope</key>
+	<string>source.nu.nuspec</string>
+	<key>tabTrigger</key>
+	<string>given</string>
+	<key>uuid</key>
+	<string>CC36AE97-03BE-4AD1-84CA-6FB5E533C7FF</string>
+</dict>
+</plist>
